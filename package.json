@@ -2,7 +2,7 @@
   "name": "radio-free",
   "version": "1.0.0",
   "description": "Main Frame",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
